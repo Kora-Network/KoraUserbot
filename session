@@ -1,0 +1,7 @@
+# TeamKora - UserBot
+# Copyright (C) 2020 TeamKora
+#
+# This file is a part of < https://github.com/Kora-NetWork/KoraUserBot/ >
+# PLease Read the GNU Affero General Public License in <https://www.github.com/Kora-NetWork/KoraUserBot/blob/main/LICENSE/>.
+
+bash resources/session/session.sh
